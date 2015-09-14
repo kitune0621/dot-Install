@@ -1,0 +1,26 @@
+#container{
+	/*width: 500;*/
+	width: 70%;
+	margin: 0 auto;
+}
+
+#header{
+	background-color: red;
+}
+#main{
+	background-color: blue;
+}
+#footer{
+	background-color: green;
+}
+
+#left{
+	background-color: pink;
+	float: left;
+	width: 200px;
+}
+#right{
+	background-color: purple;
+	margin-left: 200px;
+}
+
