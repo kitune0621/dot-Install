@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+
+body {
+	font-family: Arial, Verdan, sans-serif;
+	width: 95%;
+	margin: 0 auto;
+}
+
+#header {
+	background: red;
+}
+
+#footer {
+	background: green;
+}
+
+#container {
+}
+
+#main {
+	background: orange;
+}
+
+#sub {
+	background: yellow;
+}
+
+#footerNavLink {
+	float: right;
+}
+
+#headerNav ul {
+	list-style: none;
+	overflow: hidden;
+}
+
+#headerNav li {
+	float: left;
+	width: 33%;
+	text-align: center;
+}
+
+img {
+	max-width: 100%;
+}
+
+
+/*スマホのスタイル*/
+
+/*タブレットスタイル*/
+@media all and (min-width: 480px) {
+
+}
+
+/*PCスタイル*/
+@media all and (min-width: 768px) {
+
+}
+
+
+
